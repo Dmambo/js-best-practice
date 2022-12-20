@@ -1,7 +1,7 @@
 const btnClear = document.querySelector('.btn-clear');
 const todoList = document.querySelector('.list-items');
 const todoInput = document.querySelector('#inputs');
-
+/* eslint-disable import/no-mutable-exports */
 let todos = [];
 
 export const storage = (todo) => {
