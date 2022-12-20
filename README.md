@@ -47,11 +47,11 @@ it's a book list project that allows you to add book both in the ui and the loca
 ### Key Features <a name="key-features"></a>
 
 - **[key_feature_1]**
-  ALLOWS YOU TO ADD BOOK
+  ALLOWS YOU TO ADD A TODO LIST
 - **[key_feature_2]**
-  ALLOWS YOU TO DELETE BOOK
+  ALLOWS YOU TO DELETE TODO LIST
 - **[key_feature_3]**
-  SINGLE WEBPAGE
+  ALLOWS YOU TO EDIT TODO LIST
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,7 +61,7 @@ it's a book list project that allows you to add book both in the ui and the loca
 
 <img align="center" src="./Capture.JPG" alt="logo" width="100%"  height="auto" />
 
-- [Live Demo Link](https://dmambo.github.io/Todo-list/dist/)
+- [Live Demo Link](https://dmambo.github.io/todo/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
